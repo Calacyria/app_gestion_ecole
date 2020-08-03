@@ -37,7 +37,7 @@
 		<mysql.driver.version>5.1.47</mysql.driver.version>
 
 		<!-- version de spring security -->
-		<spring.security.version>5.0.2.RELEASE</spring.security.version>
+		<spring.security.version>5.3.3.RELEASE</spring.security.version>
 
 	</properties>
 
